@@ -1,0 +1,35 @@
+.main {
+  height: 1200px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+navbar navbar-expand-lg navbar-light bg-light {
+  background: red;
+}
+.banner {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 100px;
+  width: 70%;
+}
+.bannerText {
+  color: white;
+}
+.bannerButton {
+  margin-top: 20px;
+}
+.servicesItem {
+  padding-bottom: 40px;
+}
+.servicesText {
+  text-align: center;
+}
+.servicesButton {
+  margin: 0 auto;
+  position: absolute;
+  text-align: center;
+}
+.widgetsContainer {
+  padding-top: 50px;
+}
